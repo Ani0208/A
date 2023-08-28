@@ -174,7 +174,7 @@ function draw() {
   textSize(val4);
 
   text(valI1, 20, 40);
-  text(valI2, 20, 350);
+  text(valI2, 20, 500);
 }
 
   
