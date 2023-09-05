@@ -29,7 +29,7 @@ function setup()
 function handleChoice() {
   const selectedValue = radio1.value();
   if (selectedValue === 'Yes') {
-    window.location.href = 'booking.html'; // Redirect to booking.html
+    window.location.href = 'Booking.html'; // Redirect to booking.html
   } else if (selectedValue === 'No') {
     window.location.href = 'Regret.html'; // Redirect to error.html
   }
